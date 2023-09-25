@@ -31,8 +31,8 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information, have a look through the resource section.
 
-![Customer Retention](PwC Power BI/Task 2 - Customer Retention (Churn Dashboard)/Customer Retenstion Insights 1.png)
-![Customer Retention](PwC Power BI/Task 2 - Customer Retention (Churn Dashboard)/Customer Retenstion Insights 2.png)
+![Customer Retention](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%202%20-%20Customer%20Retention%20(Churn%20Dashboard)/Customer%20Retenstion%20Insights%201.png)
+![Customer Retention](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%202%20-%20Customer%20Retention%20(Churn%20Dashboard)/Customer%20Retenstion%20Insights%202.png)
 
 ## Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
@@ -51,10 +51,10 @@ Here is a hint: Calculating the following **measures** could help to define prop
 - Average performance rating: men
 - Average Performance rating: women
 
-![Diversity & Inclusion](PwC Power BI/Task 3 - Diversity & Inclusion (HR Dashboard)/HR Dashboard - Hiring & Promotion.png)
-![Diversity & Inclusion](PwC Power BI/Task 3 - Diversity & Inclusion (HR Dashboard)/HR Dashboard - Performance Rate.png)
-![Diversity & Inclusion](PwC Power BI/Task 3 - Diversity & Inclusion (HR Dashboard)/HR Dashboard - Gender & Age.png)
-![Diversity & Inclusion](PwC Power BI/Task 3 - Diversity & Inclusion (HR Dashboard)/HR Dashboard.png)
+![Diversity & Inclusion - KPI 1&2](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%203%20-%20Diversity%20%26%20Inclusion%20(HR%20Dashboard)/HR%20Dashboard%20-%20Hiring%20%26%20Promotion.png)
+![Diversity & Inclusion - KPI 3&4](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%203%20-%20Diversity%20%26%20Inclusion%20(HR%20Dashboard)/HR%20Dashboard%20-%20Performance%20Rate.png)
+![Diversity & Inclusion - KPI 5&6](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%203%20-%20Diversity%20%26%20Inclusion%20(HR%20Dashboard)/HR%20Dashboard%20-%20Hiring%20%26%20Promotion.png)
+![Diversity & Inclusion - HR Insights](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%203%20-%20Diversity%20%26%20Inclusion%20(HR%20Dashboard)/HR%20Dashboard.png)
 
 ## Dependencies
 
