@@ -69,4 +69,4 @@ Here is a hint: Calculating the following **measures** could help to define prop
 
 ## Developed by
 
-This virtual internship program has been developed in collaboration with [Forage]([https://www.theforage.com/](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience)).
+This virtual internship program has been developed in collaboration with [Forage](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience).
