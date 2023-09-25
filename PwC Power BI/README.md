@@ -18,7 +18,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-![Call Centre Trends](PwC Power BI/Task 1 - Call Center Trends/Call Center Trends.png)
+![Call Centre Trends](https://github.com/Happy2703/Certification-Projects/blob/main/PwC%20Power%20BI/Task%201%20-%20Call%20Center%20Trends/Call%20Center%20Trends.png)
 
 ## Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
